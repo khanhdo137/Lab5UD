@@ -1,4 +1,7 @@
 {
   "name": "Lab5",
-  "displayName": "Lab5"
+  "displayName": "Lab5",
+  "android": {
+    "package": "com.anonymous.lab5"
+  }
 }

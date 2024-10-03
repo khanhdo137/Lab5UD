@@ -1,4 +1,4 @@
-package com.lab5
+package com.anonymous.lab5
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

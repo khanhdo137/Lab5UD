@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "246353965099",
+    "project_id": "lab5-cccae",
+    "storage_bucket": "lab5-cccae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246353965099:android:602b7986e6ca65a9b57a6e",
+        "android_client_info": {
+          "package_name": "com.lab5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWL7J6YL7ur0aq8gvXLz_YSTiyiXQq6r0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
